@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimetriq.github.io/sitemap.xml
